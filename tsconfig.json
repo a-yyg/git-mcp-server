@@ -59,8 +59,8 @@
     "allowJs": false,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"],
-      "tests/*": ["tests/*"]
+      "@/*": ["./src/*"],
+      "tests/*": ["./tests/*"]
     }
   },
   "include": ["src/**/*", "tests/**/*"],
